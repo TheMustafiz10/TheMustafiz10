@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **open-source projects** related to developer tooling, cloud automation, or ML pipelines.
 - 🤔 I’m looking for help with **productionizing ML models** and **designing resilient, low-latency distributed systems**.
 - 💬 Ask me about **full-stack development (MERN/PERN stacks)**, **REST/gRPC APIs**, **database optimization**, **mobile app development**, **Web3 & Blockchain**, **Machine Learning/NLP**, or **getting started with DevOps**.
-- 📫 How to reach me: [your.email@example.com](mailto:rahmanmridul2002@gmail.com) | [LinkedIn](http://www.linkedin.com/in/md-mustafizur-rahman-136952250) 
+- 📫 How to reach me: rahmanmridul2002@gmail.com | [LinkedIn](http://www.linkedin.com/in/md-mustafizur-rahman-136952250) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Once wasted an entire afternoon debugging API calls — the issue? A trailing slash in the endpoint URL. `/api/users` vs `/api/users/` 🙃
 
