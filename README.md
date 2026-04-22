@@ -23,9 +23,8 @@
 **Machine Learning & AI:**
 - **ML:** Scikit-learn, XGBoost, LightGBM, Pandas, NumPy
 - **NLP:** Hugging Face Transformers, spaCy, NLTK, BERT, GPT, LangChain
-- **Neural Networks:** TensorFlow, Keras, PyTorch, CNNs, RNNs/LSTMs, GANs
-- 
-**Advanced AI:** 🧠 Neural Networks (CNNs, RNNs, GANs, Transformers) • ⚡🧠 Spiking Neural Networks (SNN) • 🔋 Neuromorphic Computing
+- **Neural Networks:** TensorFlow, Keras, PyTorch, CNNs, RNNs
+- **Advanced AI:** Neural Networks (🧠⏱️ LSTMs • 🎨 GANs • 🔥 Transformers • 📦 Autoencoders • 🔮 VAEs • 📈 AR Models ) • ⚡🧠 Spiking Neural Networks (SNN) • 🔋 Neuromorphic Computing
 
 **DevOps:** Docker, Kubernetes, GitHub Actions, Terraform, Prometheus + Grafana  
 **MLOps:** MLflow, DVC, Ray, Kubeflow 
