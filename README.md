@@ -24,9 +24,12 @@
 - **ML:** Scikit-learn, XGBoost, LightGBM, Pandas, NumPy
 - **NLP:** Hugging Face Transformers, spaCy, NLTK, BERT, GPT, LangChain
 - **Neural Networks:** TensorFlow, Keras, PyTorch, CNNs, RNNs/LSTMs, GANs
+- 
+**Advanced AI:** 🧠 Neural Networks (CNNs, RNNs, GANs, Transformers) • ⚡🧠 Spiking Neural Networks (SNN) • 🔋 Neuromorphic Computing
 
 **DevOps:** Docker, Kubernetes, GitHub Actions, Terraform, Prometheus + Grafana  
-**MLOps:** MLflow, DVC, Ray, Kubeflow  
+**MLOps:** MLflow, DVC, Ray, Kubeflow 
+**CloudOps:** ☁️🔧 Infrastructure Management • 📊 Monitoring & Alerting • 💸 Cost Optimization (FinOps) • 🔒 Compliance & Security
 
 **Web3 & Blockchain:**
 - **Smart Contracts:** Solidity, Hardhat, Foundry, Ethers.js, Web3.js
