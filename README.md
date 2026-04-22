@@ -17,7 +17,7 @@
 
 **Frontend:** React, Next.js, TypeScript, Tailwind  
 **Mobile (App Development):** Flutter, Dart  
-**Backend:** Node.js, Express.js, NestJS, Python (FastAPI/Django), Go (learning)  
+**Backend:** Node.js, Express.js, Nest.js, PHP, Python (Flask, Django - Learning), Go (learning)  
 **Databases:** PostgreSQL, MongoDB, Redis, Firebase (Firestore, Auth, Cloud Functions)  
 
 **Machine Learning & AI:**
@@ -28,6 +28,7 @@
 
 **DevOps:** Docker, Kubernetes, GitHub Actions, Terraform, Prometheus + Grafana  
 **MLOps:** MLflow, DVC, Ray, Kubeflow 
+
 **CloudOps:** ☁️🔧 Infrastructure Management • 📊 Monitoring & Alerting • 💸 Cost Optimization (FinOps) • 🔒 Compliance & Security
 
 **Web3 & Blockchain:**
