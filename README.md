@@ -1,6 +1,6 @@
 <h1 style="font-size: 4rem;">👋 Hi there, I'm MD Mustafizur Rahman</h1>
 
-## 🚀 💻 Full-Stack | 📱 Flutter | ⛓️ Web3 | 🤖 NLP | ☁️ DevOps & MLOps (learning)
+## 🚀 💻 Full-Stack | 📱 Flutter | ⛓️ Web3 | 🤖 NLP | ⚡🧠 SNN | ☁️ DevOps & MLOps (learning) | 💸 CloudOps (learning)
 
 - 🔭 I’m currently working on **scalable full-stack applications** with React, Node.js, and cloud-native architectures.
 - 🌱 I’m currently learning **DevOps (Kubernetes, Terraform, CI/CD pipelines)**, **MLOps (MLflow, Kubeflow, DVC)**, and **advanced System Design** (microservices, event-driven architecture, database sharding).
