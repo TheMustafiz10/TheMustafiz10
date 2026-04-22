@@ -1,13 +1,13 @@
 <h1 style="font-size: 4rem;">👋 Hi there, I'm MD Mustafizur Rahman</h1>
 
-## 🚀 Full-Stack Developer | Aspiring DevOps & MLOps Engineer
+## 🚀 💻 Full-Stack | 📱 Flutter | ⛓️ Web3 | 🤖 NLP | ☁️ DevOps & MLOps (learning)
 
 - 🔭 I’m currently working on **scalable full-stack applications** with React, Node.js, and cloud-native architectures.
 - 🌱 I’m currently learning **DevOps (Kubernetes, Terraform, CI/CD pipelines)**, **MLOps (MLflow, Kubeflow, DVC)**, and **advanced System Design** (microservices, event-driven architecture, database sharding).
 - 👯 I’m looking to collaborate on **open-source projects** related to developer tooling, cloud automation, or ML pipelines.
 - 🤔 I’m looking for help with **productionizing ML models** and **designing resilient, low-latency distributed systems**.
 - 💬 Ask me about **full-stack development (MERN/PERN stacks)**, **REST/gRPC APIs**, **database optimization**, **mobile app development**, **Web3 & Blockchain**, **Machine Learning/NLP**, or **getting started with DevOps**.
-- 📫 How to reach me: [your.email@example.com](rahmanmridul2002@gmail.com) | [LinkedIn](http://www.linkedin.com/in/md-mustafizur-rahman-136952250) 
+- 📫 How to reach me: [your.email@example.com](mailto:rahmanmridul2002@gmail.com) | [LinkedIn](http://www.linkedin.com/in/md-mustafizur-rahman-136952250) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Once wasted an entire afternoon debugging API calls — the issue? A trailing slash in the endpoint URL. `/api/users` vs `/api/users/` 🙃
 
