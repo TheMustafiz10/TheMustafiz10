@@ -3,7 +3,7 @@
 ## 🚀 💻 Full-Stack | 📱 Flutter | ⛓️ Web3 | 🤖 NLP | ⚡🧠 SNN | ☁️ DevOps & MLOps (learning) | 💸 CloudOps (learning)
 
 - 🔭 I’m currently working on **scalable full-stack applications** with React, NextJS, Node.js, and cloud-native architectures.
-- 🌱 I’m currently learning **DevOps (Kubernetes, Terraform, CI/CD pipelines)**, **MLOps (MLflow, Kubeflow, DVC)**, **CloudOps** (cost optimization, reliability, security/compliance), **SNN (Spiking Neural Networks)** , **Web3** (Solidity, Hardhat, Hyperledger Fabric, DeFi protocols),and **Advanced System Design** (microservices, event-driven architecture, database sharding).
+- 🌱 I’m currently learning **DevOps (Kubernetes, Terraform, CI/CD pipelines)**, **MLOps (MLflow, Kubeflow, DVC)**, **CloudOps** (cost optimization, reliability, security/compliance), **SNN (Spiking Neural Networks)** , **Web3** (Solidity, Hardhat, Hyperledger Fabric, DeFi protocols), and **Advanced System Design** (microservices, event-driven architecture, database sharding).
 - 👯 I’m looking to collaborate on **open-source projects** related to developer tooling, cloud automation, or ML pipelines.
 - 🤔 I’m looking for help with **productionizing ML models** and **designing resilient, low-latency distributed systems**.
 - 💬 Ask me about **full-stack development (MERN/PERN stacks)**, **REST/gRPC APIs**, **Database optimization**, **Android App Development**, **Web3 & Blockchain**, **Machine Learning, NLP**, or **getting started with DevOps, MLOps, CloudOps**.
