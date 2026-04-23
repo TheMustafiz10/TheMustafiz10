@@ -35,14 +35,11 @@
 | Area | Tools & Practices |
 |------|-------------------|
 | **DevOps** | 🐳 Docker • ☸️ Kubernetes • ⚙️ GitHub Actions • 🌐 Terraform • 📊 Prometheus • 👁️ Grafana |
-| **CloudOps** | ☁️🔧 Infrastructure Management • 📊 Monitoring & Alerting • 💸 Cost Optimization • 🔒 Compliance |
+| **CloudOps** | ☁️🔧 Infrastructure Management • 📊 Monitoring & Alerting • 💸 Cost Optimization • 🔒 Compliance & Security |
 | **MLOps** | 📦 MLflow • 🗂️ DVC • ⚡ Ray • 🚀 Kubeflow |
 
 
-**DevOps:** 🐳 Docker • ☸️ Kubernetes • ⚙️ GitHub Actions • 🌐 Terraform • 📊 Prometheus • 👁️ Grafana  
-**MLOps:** 📦 MLflow • 🗂️ DVC • ⚡ Ray • 🚀 Kubeflow
 
-**CloudOps:** ☁️🔧 Infrastructure Management • 📊 Monitoring & Alerting • 💸 Cost Optimization (FinOps) • 🔒 Compliance & Security
 
 **Web3 & Blockchain:**
 - **Smart Contracts:** Solidity, Hardhat, Foundry, Ethers.js, Web3.js
