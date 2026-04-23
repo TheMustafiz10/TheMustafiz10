@@ -30,6 +30,15 @@
 - ARKit/ARCore, Unity, Unreal Engine, 3D Computer Vision, Spatial Computing
 
 
+## 🛠️ DevOps & CloudOps
+
+| Area | Tools & Practices |
+|------|-------------------|
+| **DevOps** | 🐳 Docker • ☸️ Kubernetes • ⚙️ GitHub Actions • 🌐 Terraform • 📊 Prometheus • 👁️ Grafana |
+| **CloudOps** | ☁️🔧 Infrastructure Management • 📊 Monitoring & Alerting • 💸 Cost Optimization • 🔒 Compliance |
+| **MLOps** | 📦 MLflow • 🗂️ DVC • ⚡ Ray • 🚀 Kubeflow |
+
+
 **DevOps:** 🐳 Docker • ☸️ Kubernetes • ⚙️ GitHub Actions • 🌐 Terraform • 📊 Prometheus • 👁️ Grafana  
 **MLOps:** 📦 MLflow • 🗂️ DVC • ⚡ Ray • 🚀 Kubeflow
 
