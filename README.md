@@ -98,3 +98,18 @@ graph LR
     D --> H[LLMs - GPT/LLaMA/BERT]
     D --> I[RAG Systems]
     D --> J[Fine-tuning]
+
+
+
+### ⚙️ Ops & Infrastructure Focus Areas
+
+```mermaid
+graph LR
+    L[DevOps] --> M[CI/CD Pipelines]
+    L --> N[IaC - Terraform]
+    O[CloudOps] --> P[Multi-Cloud Strategy]
+    O --> Q[Cost Optimization / FinOps]
+    O --> R[Security & Compliance]
+    S[MLOps] --> T[Model Versioning]
+    S --> U[Feature Stores]
+    S --> V[LLMOps / Kubeflow]
