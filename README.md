@@ -60,7 +60,8 @@
 
 ### 🧠 Currently diving deep into
 
-- **System Design:** Consistent hashing, leader-follower replication, circuit breakers  
+- **System Design:** Consistent hashing, leader-follower replication, circuit breakers
+- **Cloud & CloudOps:** Multi-cloud strategies (AWS/Azure/GCP), Infrastructure as Code (Terraform), Auto-scaling, Disaster recovery, Cost optimization, Cloud security frameworks 
 - **MLOps:** Feature stores, model versioning, automated retraining, LLMOps
 - **Neural Networks:** Transformers, Attention mechanisms, Diffusion models, SNN (Spiking Neural Networks), VAE (Variational Autoencoders)
 - **NLP:** RAG (Retrieval-Augmented Generation), Fine-tuning LLMs, VAE for latent text representation, Event-driven SNN for sequence processing
@@ -73,7 +74,7 @@
 
 | Domain | Tech Stack |
 |--------|-------------|
-| Web Apps | React/Next.js + Node.js/NestJS + PostgreSQL |
+| Web Apps | React/Next.js + Node.js/NestJS/ExpressJS + PostgreSQL |
 | Mobile Apps | Flutter + Firebase |
 | AI/ML | PyTorch/TensorFlow + Hugging Face + LangChain |
 | NLP | Transformers + RAG + LLM fine-tuning |
@@ -90,9 +91,10 @@ graph LR
     A[Machine Learning] --> B[Classical ML]
     A --> C[Neural Networks]
     A --> D[NLP]
-    C --> E[CNNs / RNNs]
-    C --> F[Transformers]
-    C --> G[GANs / Diffusion]
-    D --> H[LLMs - GPT/LLaMA]
+    C --> E[CNNs / RNNs / LSTMs]
+    C --> F[Transformers / Attention]
+    C --> G[GANs / Diffusion / VAE]
+    C --> K[SNN - Spiking Neural Networks]
+    D --> H[LLMs - GPT/LLaMA/BERT]
     D --> I[RAG Systems]
     D --> J[Fine-tuning]
