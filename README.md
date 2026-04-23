@@ -99,11 +99,7 @@ graph LR
     D --> I[RAG Systems]
     D --> J[Fine-tuning]
 
-
-
-### ⚙️ Ops & Infrastructure Focus Areas
-
-```mermaid
+---
 graph LR
     L[DevOps] --> M[CI/CD Pipelines]
     L --> N[IaC - Terraform]
@@ -113,3 +109,23 @@ graph LR
     S[MLOps] --> T[Model Versioning]
     S --> U[Feature Stores]
     S --> V[LLMOps / Kubeflow]
+
+---
+
+graph LR
+    W[Web3] --> X[Smart Contracts - Solidity]
+    W --> Y[Hyperledger Fabric]
+    W --> Z[DeFi Protocols / L2]
+    W --> AA[Ethers.js / Web3.js]
+    Y --> AB[Chaincode - Go/Node.js]
+    Z --> AC[Layer 2 Solutions]
+
+---
+
+graph LR
+    AD[AR/VR] --> AE[Augmented Reality - ARKit/ARCore]
+    AD --> AF[Virtual Reality - Unity/Unreal]
+    AD --> AG[Computer Vision]
+    AG --> AH[3D Reconstruction]
+    AG --> AI[Object Detection]
+    AG --> AJ[Spatial Computing]
