@@ -100,6 +100,7 @@ graph LR
     D --> J[Fine-tuning]
 
 ---
+⚙️ Ops & Infrastructure Focus Areas
 graph LR
     L[DevOps] --> M[CI/CD Pipelines]
     L --> N[IaC - Terraform]
@@ -111,7 +112,7 @@ graph LR
     S --> V[LLMOps / Kubeflow]
 
 ---
-
+⛓️ Web3 & Blockchain Focus Areas
 graph LR
     W[Web3] --> X[Smart Contracts - Solidity]
     W --> Y[Hyperledger Fabric]
@@ -121,7 +122,7 @@ graph LR
     Z --> AC[Layer 2 Solutions]
 
 ---
-
+🥽 AR/VR & Computer Vision Focus Areas
 graph LR
     AD[AR/VR] --> AE[Augmented Reality - ARKit/ARCore]
     AD --> AF[Virtual Reality - Unity/Unreal]
