@@ -57,8 +57,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMustafiz10&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMustafiz10&show_icons=true&theme=radical&hide=issues)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheMustafiz10&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMustafiz10&layout=compact&theme=radical)
