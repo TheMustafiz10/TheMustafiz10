@@ -29,9 +29,9 @@
 **Augmented & Virtual Reality:**
 - ARKit/ARCore, Unity, Unreal Engine, 3D Computer Vision, Spatial Computing
 
-**DevOps:** Docker, Kubernetes, GitHub Actions, Terraform, Prometheus + Grafana  
-**MLOps:** MLflow, DVC, Ray, Kubeflow 
 
+**DevOps:** 🐳 Docker • ☸️ Kubernetes • ⚙️ GitHub Actions • 🌐 Terraform • 📊 Prometheus • 👁️ Grafana  
+**MLOps:** 📦 MLflow • 🗂️ DVC • ⚡ Ray • 🚀 Kubeflow
 **CloudOps:** ☁️🔧 Infrastructure Management • 📊 Monitoring & Alerting • 💸 Cost Optimization (FinOps) • 🔒 Compliance & Security
 
 **Web3 & Blockchain:**
