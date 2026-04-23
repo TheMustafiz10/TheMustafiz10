@@ -26,6 +26,9 @@
 - **Neural Networks:** TensorFlow, Keras, PyTorch, CNNs, RNNs
 - **Advanced AI:** Neural Networks (🧠⏱️ LSTMs • 🎨 GANs • 🔥 Transformers • 📦 Autoencoders • 🔮 VAEs • 📈 AR Models ) • ⚡🧠 Spiking Neural Networks (SNN) • 🔋 Neuromorphic Computing
 
+**Augmented & Virtual Reality:**
+- ARKit/ARCore, Unity, Unreal Engine, 3D Computer Vision, Spatial Computing
+
 **DevOps:** Docker, Kubernetes, GitHub Actions, Terraform, Prometheus + Grafana  
 **MLOps:** MLflow, DVC, Ray, Kubeflow 
 
@@ -52,8 +55,9 @@
 
 - **System Design:** Consistent hashing, leader-follower replication, circuit breakers  
 - **MLOps:** Feature stores, model versioning, automated retraining, LLMOps
-- **Neural Networks:** Transformers, Attention mechanisms, Diffusion models
-- **NLP:** RAG (Retrieval-Augmented Generation), Fine-tuning LLMs, Prompt engineering
+- **Neural Networks:** Transformers, Attention mechanisms, Diffusion models, SNN (Spiking Neural Networks), VAE (Variational Autoencoders)
+- **NLP:** RAG (Retrieval-Augmented Generation), Fine-tuning LLMs, VAE for latent text representation, Event-driven SNN for sequence processing
+- **AR/VR:** Augmented Reality (AR), Virtual Reality (VR), Computer Vision, 3D Reconstruction
 - **Web3:** Smart contract security, DeFi protocols, Layer 2 solutions, Hyperledger Fabric consensus mechanisms
 
 ---
