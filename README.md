@@ -100,7 +100,10 @@ graph LR
     D --> J[Fine-tuning]
 
 ---
-⚙️ Ops & Infrastructure Focus Areas
+
+###⚙️ Ops & Infrastructure Focus Areas
+
+```mermaid
 graph LR
     L[DevOps] --> M[CI/CD Pipelines]
     L --> N[IaC - Terraform]
@@ -112,7 +115,10 @@ graph LR
     S --> V[LLMOps / Kubeflow]
 
 ---
-⛓️ Web3 & Blockchain Focus Areas
+
+###⛓️ Web3 & Blockchain Focus Areas
+
+```mermaid
 graph LR
     W[Web3] --> X[Smart Contracts - Solidity]
     W --> Y[Hyperledger Fabric]
@@ -122,7 +128,10 @@ graph LR
     Z --> AC[Layer 2 Solutions]
 
 ---
-🥽 AR/VR & Computer Vision Focus Areas
+
+###🥽 AR/VR & Computer Vision Focus Areas
+
+```mermaid
 graph LR
     AD[AR/VR] --> AE[Augmented Reality - ARKit/ARCore]
     AD --> AF[Virtual Reality - Unity/Unreal]
@@ -130,3 +139,4 @@ graph LR
     AG --> AH[3D Reconstruction]
     AG --> AI[Object Detection]
     AG --> AJ[Spatial Computing]
+```
