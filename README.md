@@ -32,6 +32,7 @@
 
 **DevOps:** 🐳 Docker • ☸️ Kubernetes • ⚙️ GitHub Actions • 🌐 Terraform • 📊 Prometheus • 👁️ Grafana  
 **MLOps:** 📦 MLflow • 🗂️ DVC • ⚡ Ray • 🚀 Kubeflow
+
 **CloudOps:** ☁️🔧 Infrastructure Management • 📊 Monitoring & Alerting • 💸 Cost Optimization (FinOps) • 🔒 Compliance & Security
 
 **Web3 & Blockchain:**
