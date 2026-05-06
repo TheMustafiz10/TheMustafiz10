@@ -11,6 +11,8 @@
 
 ---
 
+`CloudOps` `DevOps` `MLOps (Learning)` `Full Stack` `ML Research` `IoT Security`
+
 ## 🚀 💻 Full-Stack | 📱 Flutter | ⛓️ Web3 | 🤖 NLP | ⚡🧠 SNN | ☁️ DevOps & MLOps (learning) | 💸 CloudOps (learning)
 
 - 🔭 I’m currently working on **scalable full-stack applications** with React, NextJS, Node.js, and cloud-native architectures.
