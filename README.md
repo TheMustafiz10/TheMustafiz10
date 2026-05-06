@@ -20,6 +20,115 @@
 ![IoT Security](https://img.shields.io/badge/IoT%20Security-0D1117?style=flat-square&logo=raspberrypi&logoColor=white)
 
 
+
+<div align="center">
+
+# 🚀 Md. Mustafizur Rahman
+
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Full-Stack+Developer;Flutter+%26+Web3+Enthusiast;NLP+%26+SNN+Researcher;DevOps+%7C+MLOps+%7C+CloudOps+(Learning)" alt="Typing Animation" />
+
+---
+
+### 🛠️ Tech Stack & Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B">
+  <img src="https://img.shields.io/badge/Web3-0D1117?style=for-the-badge&logo=web3.js&logoColor=F16822">
+  <img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
+  <img src="https://img.shields.io/badge/SNN-0D1117?style=for-the-badge&logo=braingate&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/DevOps_(Learning)-0D1117?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/MLOps_(Learning)-0D1117?style=for-the-badge&logo=kubeflow&logoColor=white">
+  <img src="https://img.shields.io/badge/CloudOps_(Learning)-0D1117?style=for-the-badge&logo=google-cloud&logoColor=white">
+</p>
+
+</div>
+
+---
+
+## 📌 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+### 👋 Who Am I?
+
+I'm a **Full-Stack Developer** and **ML Researcher** passionate about building scalable applications and intelligent systems. Currently exploring the intersection of **Web3**, **Neuromorphic Computing (SNN)** , and **Cloud-Native Technologies**.
+
+- 🎓 **Education:** B.Sc. Computer Science @ BRAC University
+- 📍 **Location:** Dhaka, Bangladesh
+- 💡 **Philosophy:** *"Ambition is not enough to achieve greatness"*
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheMustafiz10&show_icons=true&theme=radical&hide_title=true&hide_border=true&bg_color=0D111700" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 What I'm Working On
+
+| Category | Details |
+|----------|---------|
+| 🔭 **Current Work** | Scalable full-stack applications with React, NextJS, Node.js, and cloud-native architectures |
+| 🌱 **Learning** | • DevOps (Kubernetes, Terraform, CI/CD)<br>• MLOps (MLflow, Kubeflow, DVC)<br>• CloudOps (Cost optimization, Security, Reliability)<br>• SNN (Spiking Neural Networks)<br>• Web3 (Solidity, Hardhat, Hyperledger Fabric)<br>• Advanced System Design (Microservices, Event-driven architecture, Database sharding) |
+| 👯 **Collaboration** | Open-source projects in developer tooling, cloud automation, or ML pipelines |
+| 🤔 **Need Help With** | Productionizing ML models & designing resilient, low-latency distributed systems |
+
+---
+
+## 💬 Ask Me About
+
+<p align="center">
+  <code>⚛️ Full-Stack (MERN/PERN)</code> •
+  <code>📱 Android/Flutter</code> •
+  <code>🔗 Web3 & Blockchain</code> •
+  <code>🧠 ML & NLP</code> •
+  <code>🗄️ Database Optimization</code> •
+  <code>⚙️ DevOps/MLOps/CloudOps</code>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-rahmanmridul2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmanmridul2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/md-mustafizur-rahman-136952250)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheMustafiz10)
+
+**😄 Pronouns:** He/Him
+
+</div>
+
+---
+
+## 😂 Fun Fact
+
+> *"Once wasted an entire afternoon debugging API calls — the issue? A trailing slash in the endpoint URL. `/api/users` vs `/api/users/` 🙃"*
+
+---
+
+<div align="center">
+  
+### 📊 Weekly Development Breakdown
+
+<!-- Optional: Add WakaTime stats if you use it -->
+<!-- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical&hide_border=true) -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMustafiz10&theme=radical&area=true&hide_border=true" width="100%">
+
+</div>
+
+
+
 ## 🚀 💻 Full-Stack | 📱 Flutter | ⛓️ Web3 | 🤖 NLP | ⚡🧠 SNN | ☁️ DevOps & MLOps (learning) | 💸 CloudOps (learning)
 
 - 🔭 I’m currently working on **scalable full-stack applications** with React, NextJS, Node.js, and cloud-native architectures.
