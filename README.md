@@ -72,8 +72,9 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
   <code>📱 Android/Flutter</code> •
   <code>🔗 Web3 & Blockchain</code> •
   <code>🧠 ML & NLP</code> •
+  <code>⚡SNN</code>code>
   <code>🗄️ Database Optimization</code> •
-  <code>⚙️ DevOps/MLOps/CloudOps</code>
+  <code>⚙️ DevOps/MLOps/CloudOps (Learning)</code>
 </p>
 
 ---
@@ -164,7 +165,6 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 
 ![MD Mustafizur Rahman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheMustafiz10&theme=dracula&area=true&hide_border=true)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=TheMustafiz10&theme=radical&hide_border=true)
 </div>
 
 ### 📱 What I'm building across domains
