@@ -72,7 +72,7 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
   <code>📱 Android/Flutter</code> •
   <code>🔗 Web3 & Blockchain</code> •
   <code>🧠 ML & NLP</code> •
-  <code>⚡SNN</code>code>
+  <code>⚡SNN</code> •
   <code>🗄️ Database Optimization</code> •
   <code>⚙️ DevOps/MLOps/CloudOps (Learning)</code>
 </p>
