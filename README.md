@@ -91,6 +91,65 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 
 ---
 
+
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react">
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js">
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript">
+  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss">
+  <br>
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter">
+  <img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart">
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js">
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express">
+  <img src="https://img.shields.io/badge/Nest.js-0D1117?style=flat-square&logo=nestjs">
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/Go_(learning)-0D1117?style=flat-square&logo=go">
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql">
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb">
+  <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis">
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase">
+</p>
+
+#### 🤖 Machine Learning & AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikit-learn">
+  <img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square">
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy">
+  <br>
+  <img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=flat-square&logo=huggingface">
+  <img src="https://img.shields.io/badge/spaCy-0D1117?style=flat-square">
+  <img src="https://img.shields.io/badge/BERT-0D1117?style=flat-square">
+  <img src="https://img.shields.io/badge/GPT-0D1117?style=flat-square">
+  <br>
+  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow">
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch">
+  <br>
+  <code>🧠⏱️ LSTMs</code> <code>🎨 GANs</code> <code>🔥 Transformers</code> <code>📦 Autoencoders</code> <code>🔮 VAEs</code> <code>📈 AR Models</code>
+  <br>
+  <code>⚡🧠 Spiking Neural Networks (SNN)</code> <code>🔋 Neuromorphic Computing</code>
+</p>
+
+#### 🥽 Augmented & Virtual Reality
+
+<p align="center">
+  <code>ARKit/ARCore</code> <code>Unity</code> <code>Unreal Engine</code> <code>3D Computer Vision</code> <code>Spatial Computing</code>
+</p>
+
+
+
+
+
+
+
 ### 🛠️ Tech Stack & Tools
 
 ---
@@ -116,7 +175,7 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 | **ML** | `Scikit-learn` `XGBoost` `LightGBM` `Pandas` `NumPy` |
 | **NLP** | `Hugging Face Transformers` `spaCy` `NLTK` `BERT` `GPT` `LangChain` |
 | **Neural Networks** | `TensorFlow` `Keras` `PyTorch` `CNNs` `RNNs` |
-| **Advanced AI** | `Neural Networks (🧠⏱️ LSTMs • 🎨 GANs • 🔥 Transformers • 📦 Autoencoders • 🔮 VAEs • 📈 AR Models )` • `⚡🧠 Spiking Neural Networks (SNN)` • `🔋 Neuromorphic Computing` |
+| **Advanced AI** | `Neural Networks (🧠⏱️ LSTMs • 🎨 GANs • 🔥 Transformers • 📦 Autoencoders • 🔮 VAEs • 📈 AR Models )` • `⚡Spiking Neural Networks (SNN)` • `🔋 Neuromorphic Computing` |
 
 ---
 
