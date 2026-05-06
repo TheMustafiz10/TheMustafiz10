@@ -145,8 +145,6 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 
 
 
-
-
 ### ⛓️ Web3 & Blockchain
 
 | Category | Technologies |
@@ -173,13 +171,6 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 ---
 
 
-### ☁️ Cloud
-
-**AWS (EC2, RDS, S3, Lambda, SageMaker) / Azure / GCP**
-
-
-
----
 <div align="center">
 
 ### 📈 GitHub Stats
