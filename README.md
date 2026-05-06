@@ -164,7 +164,7 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 
 ![MD Mustafizur Rahman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheMustafiz10&theme=dracula&area=true&hide_border=true)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical&hide_border=true)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=TheMustafiz10&theme=radical&hide_border=true)
 </div>
 
 ### 📱 What I'm building across domains
