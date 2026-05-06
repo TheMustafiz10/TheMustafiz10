@@ -59,7 +59,7 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 | Category | Details |
 |----------|---------|
 | 🔭 **Current Work** | Scalable full-stack applications with React, NextJS, Node.js, and cloud-native architectures |
-| 🌱 **Learning** | • DevOps (Kubernetes, Terraform, CI/CD)<br>• MLOps (MLflow, Kubeflow, DVC)<br>• CloudOps (Cost optimization, Security, Reliability)<br>• SNN (Spiking Neural Networks)<br>• Web3 (Solidity, Hardhat, Hyperledger Fabric)<br>• Advanced System Design (Microservices, Event-driven architecture, Database sharding) |
+| 🌱 **Learning** | • DevOps (Kubernetes, Terraform, CI/CD)<br>• MLOps (MLflow, Kubeflow, DVC)<br>• CloudOps (Cost optimization, Security, Reliability)<br>• SNN (Spiking Neural Networks)<br>• Web3 (Solidity, Hardhat, Hyperledger Fabric, DeFi protocols)<br>• Advanced System Design (Microservices, Event-driven architecture, Database sharding) |
 | 👯 **Collaboration** | Open-source projects in developer tooling, cloud automation, or ML pipelines |
 | 🤔 **Need Help With** | Productionizing ML models & designing resilient, low-latency distributed systems |
 
@@ -207,6 +207,10 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 [![Email](https://img.shields.io/badge/Email-rahmanmridul2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmanmridul2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/md-mustafizur-rahman-136952250)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheMustafiz10)
+
+
+</div>
+
 
 ### 🤖 AI/ML Focus Areas
 
