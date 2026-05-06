@@ -141,6 +141,8 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 | **MLOps** | 📦 MLflow • 🗂️ DVC • ⚡ Ray • 🚀 Kubeflow |
 
 
+---
+
 
 ### ⛓️ Web3 & Blockchain
 
@@ -157,14 +159,6 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 **AWS (EC2, RDS, S3, Lambda, SageMaker) / Azure / GCP**
 
 
-
-
-**Web3 & Blockchain:**
-- **Smart Contracts:** Solidity, Hardhat, Foundry, Ethers.js, Web3.js
-- **Enterprise Blockchain:** Hyperledger Fabric, Chaincode (Go/Node.js)
-- **Storage & Infra:** IPFS, Filecoin, The Graph
-
-**Cloud:** AWS (EC2, RDS, S3, Lambda, SageMaker) / Azure / GCP
 
 ---
 <div align="center">
