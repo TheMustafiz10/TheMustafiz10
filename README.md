@@ -92,9 +92,6 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 ---
 
 
-
-## 🚀 💻 Full-Stack | 📱 Flutter | ⛓️ Web3 | 🤖 NLP | ⚡🧠 SNN | ☁️ DevOps & MLOps (learning) | 💸 CloudOps (learning)
-
 ---
 
 ### 🛠️ Tech Stack & Tools
