@@ -91,8 +91,45 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 
 ---
 
+### 🛠️ Tech Stack & Tools
 
 ---
+
+#### 🌐 Frontend
+`React` `Next.js` `TypeScript` `Tailwind`
+
+#### 📱 Mobile (App Development)
+`Flutter` `Dart`
+
+#### ⚙️ Backend
+`Node.js` `Express.js` `Nest.js` `PHP` `Python (Flask, Django - Learning)` `Go (learning)`
+
+#### 🗄️ Databases
+`PostgreSQL` `MongoDB` `Redis` `Firebase (Firestore, Auth, Cloud Functions)`
+
+---
+
+#### 🤖 Machine Learning & AI
+
+| Category | Technologies |
+|----------|--------------|
+| **ML** | `Scikit-learn` `XGBoost` `LightGBM` `Pandas` `NumPy` |
+| **NLP** | `Hugging Face Transformers` `spaCy` `NLTK` `BERT` `GPT` `LangChain` |
+| **Neural Networks** | `TensorFlow` `Keras` `PyTorch` `CNNs` `RNNs` |
+| **Advanced AI** | `Neural Networks (🧠⏱️ LSTMs • 🎨 GANs • 🔥 Transformers • 📦 Autoencoders • 🔮 VAEs • 📈 AR Models )` • `⚡🧠 Spiking Neural Networks (SNN)` • `🔋 Neuromorphic Computing` |
+
+---
+
+#### 🥽 Augmented & Virtual Reality
+
+`ARKit/ARCore` `Unity` `Unreal Engine` `3D Computer Vision` `Spatial Computing`
+
+---
+
+
+
+
+
 
 ### 🛠️ Tech Stack & Tools
 
