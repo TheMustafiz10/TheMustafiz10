@@ -12,14 +12,6 @@
 ---
 
 
-![CloudOps Learning](https://img.shields.io/badge/CloudOps-Learning-0D1117?style=flat-square&logo=cloudflare&logoColor=white)
-![DevOps Learning](https://img.shields.io/badge/DevOps-Learning-0D1117?style=flat-square&logo=jenkins&logoColor=white)
-![MLOps Learning](https://img.shields.io/badge/MLOps-Learning-0D1117?style=flat-square&logo=tensorflow&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![ML Research](https://img.shields.io/badge/ML%20Research-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![IoT Security](https://img.shields.io/badge/IoT%20Security-0D1117?style=flat-square&logo=raspberrypi&logoColor=white)
-
-
 
 <div align="center">
 
