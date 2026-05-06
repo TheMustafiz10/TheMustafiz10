@@ -79,7 +79,7 @@
 
 ### 📊 Activity Graph
 
-![MD Mustafizur Rahman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheMustafiz10&theme=radical&area=true&hide_border=true)
+![MD Mustafizur Rahman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheMustafiz10&theme=dracula&area=true&hide_border=true)
 
 </div>
 
