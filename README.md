@@ -144,6 +144,32 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 ---
 
 
+<div align="center">
+
+### ⛓️ Web3 & Blockchain
+
+| 📜 Smart Contracts | 🏢 Enterprise Blockchain | 💾 Storage & Infra |
+|:---:|:---:|:---:|
+| Solidity | Hyperledger Fabric | IPFS |
+| Hardhat | Chaincode (Go/Node.js) | Filecoin |
+| Foundry | | The Graph |
+| Ethers.js | | |
+| Web3.js | | |
+
+---
+
+### ☁️ Cloud
+
+| AWS | Azure | GCP |
+|:---:|:---:|:---:|
+| EC2 • RDS • S3 • Lambda • SageMaker | • | • |
+
+</div>
+
+
+
+
+
 ### ⛓️ Web3 & Blockchain
 
 | Category | Technologies |
