@@ -1,5 +1,15 @@
 <h1 style="font-size: 4rem;">👋 Hi there, I'm MD Mustafizur Rahman</h1>
 
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Researcher;IoT+Security+Enthusiast)
+
+[![GitHub followers](https://img.shields.io/github/followers/TheMustafiz10?style=social)](https://github.com/TheMustafiz10)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anik-khandokar-261967270/](http://www.linkedin.com/in/md-mustafizur-rahman-136952250/))
+
+</div>
+
+---
 
 ## 🚀 💻 Full-Stack | 📱 Flutter | ⛓️ Web3 | 🤖 NLP | ⚡🧠 SNN | ☁️ DevOps & MLOps (learning) | 💸 CloudOps (learning)
 
