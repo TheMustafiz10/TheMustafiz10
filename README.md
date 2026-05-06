@@ -1,13 +1,5 @@
 <h1 style="font-size: 4rem;">👋 Hi there, I'm MD Mustafizur Rahman</h1>
 
-<div align="center">
-  
-
-</div>
-
----
-
-
 
 <div align="center">
 
