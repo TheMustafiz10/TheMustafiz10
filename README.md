@@ -90,29 +90,9 @@ I'm a **Full-Stack Developer** and **ML Researcher** passionate about building s
 
 ---
 
-<div align="center">
-  
-### 📊 Weekly Development Breakdown
-
-<!-- Optional: Add WakaTime stats if you use it -->
-<!-- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical&hide_border=true) -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheMustafiz10&theme=radical&area=true&hide_border=true" width="100%">
-
-</div>
-
 
 
 ## 🚀 💻 Full-Stack | 📱 Flutter | ⛓️ Web3 | 🤖 NLP | ⚡🧠 SNN | ☁️ DevOps & MLOps (learning) | 💸 CloudOps (learning)
-
-- 🔭 I’m currently working on **scalable full-stack applications** with React, NextJS, Node.js, and cloud-native architectures.
-- 🌱 I’m currently learning **DevOps (Kubernetes, Terraform, CI/CD pipelines)**, **MLOps (MLflow, Kubeflow, DVC)**, **CloudOps** (cost optimization, reliability, security/compliance), **SNN (Spiking Neural Networks)** , **Web3** (Solidity, Hardhat, Hyperledger Fabric, DeFi protocols), and **Advanced System Design** (microservices, event-driven architecture, database sharding).
-- 👯 I’m looking to collaborate on **open-source projects** related to developer tooling, cloud automation, or ML pipelines.
-- 🤔 I’m looking for help with **productionizing ML models** and **designing resilient, low-latency distributed systems**.
-- 💬 Ask me about **full-stack development (MERN/PERN stacks)**, **REST/gRPC APIs**, **Database optimization**, **Android App Development**, **Web3 & Blockchain**, **Machine Learning, NLP**, or **getting started with DevOps, MLOps, CloudOps**.
-- 📫 How to reach me: rahmanmridul2002@gmail.com | [LinkedIn](http://www.linkedin.com/in/md-mustafizur-rahman-136952250) 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Once wasted an entire afternoon debugging API calls — the issue? A trailing slash in the endpoint URL. `/api/users` vs `/api/users/` 🙃
 
 ---
 
