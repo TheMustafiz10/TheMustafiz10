@@ -1,5 +1,16 @@
 <h1 style="font-size: 4rem;">👋 Hi there, I'm MD Mustafizur Rahman</h1>
 
+<div align="center">
+
+# MD Mustafizur Rahman
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMustafiz10&show_icons=true&theme=radical&hide=issues,contribs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical)
+
+</div>
+
+---
+
 ## 🚀 💻 Full-Stack | 📱 Flutter | ⛓️ Web3 | 🤖 NLP | ⚡🧠 SNN | ☁️ DevOps & MLOps (learning) | 💸 CloudOps (learning)
 
 - 🔭 I’m currently working on **scalable full-stack applications** with React, NextJS, Node.js, and cloud-native architectures.
